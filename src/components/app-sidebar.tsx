@@ -1,4 +1,4 @@
-import { Home, BookUser, NotebookPen, Search, Settings } from "lucide-react"
+import { Home, BookUser, NotebookPen, Settings } from "lucide-react"
 
 import {
   Sidebar,
