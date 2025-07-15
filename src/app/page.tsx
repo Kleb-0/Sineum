@@ -4,7 +4,7 @@ export default function Home() {
       <h1 className="text-3xl font-semibold">
         Welcome to <span className="font-bold">Kleb.letter</span>
       </h1>
-      <code className="text-muted-foreground mt-2">Calebe's personal tech blog</code>
+      <code className="text-muted-foreground mt-2">{`Calebe's personal tech blog`}</code>
     </div>
   );
 }
