@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${SourceSerif4.variable} font-source-serif dark antialiased flex min-h-screen`}
+        className={`${SourceSerif4.variable} font-source-serif dark antialiased flex min-h-screen max-w-screen`}
       >
         <SidebarProvider>
           <AppSidebar />
